@@ -53,6 +53,7 @@ python manage.py runserver
 
 🗃️ Project Structure
 
+
 edumanage_project/
 │
 ├── courses/            # Core course app
