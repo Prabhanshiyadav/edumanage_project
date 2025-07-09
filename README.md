@@ -1,6 +1,7 @@
 # 🎓 EduManage — Django Course Management System
 An intuitive, instructor-first course management web app built with Django and deployed on Render.
 
+
 🔗 **Live Demo:** [https://edumanage-project.onrender.com/](https://edumanage-project.onrender.com/)  
 📂 **Source Code:** [GitHub Repository](https://github.com/Prabhanshiyadav/edumanage_project)
 
