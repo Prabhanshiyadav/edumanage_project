@@ -27,6 +27,7 @@ An intuitive, instructor-first course management web app built with Django and d
 
 ---
 
+
 ## ⚙️ Installation
 
 ```bash
